@@ -67,14 +67,18 @@ The project is structured into three main folders:
 
 ### Basic characteristics of the datasets
 
-<img src="resources/dataset-count-log.png" height="300"/> 
-<img src="resources/dataset-age.png" height="300"/>
+<div width="100%">
+    <img src="resources/dataset-count-log.png" width="42%"/> 
+    <img src="resources/dataset-age.png" width="46%"/>
+</div>
 
-<img src="resources/dataset-gender-age-group.png" height="350"/> 
-<img src="resources/dataset-users-h.png" height="350"/> 
-<img src="resources/dataset-images-users-h.png" height="350"/> 
+<div width="100%">
+    <img src="resources/dataset-gender-age-group.png" width="37%"/> 
+    <img src="resources/dataset-users-h.png" width="25%"/> 
+    <img src="resources/dataset-images-users-h.png" width="25%"/> 
+</div>
 
-<img src="resources/dataset-classes-percentage.png" width="500"/>
+<img src="resources/dataset-classes-percentage.png" width="50%"/>
 
 
 ### Benchmark results
@@ -106,9 +110,11 @@ The project is structured into three main folders:
 | SFEW        | 0.4681               | 0.2795                |
 | WSEFEP      | 0.9314               | 0.3695                | -->
 
-<img src="resources/benchmark-local.png" width="600"/>
-<img src="resources/benchmark-global.png" width="600"/>
-<img src="resources/benchmark-paired.png" width="800"/>
+<div width="100%">
+    <img src="resources/benchmark-local.png" width="45%"/>
+    <img src="resources/benchmark-global.png" width="45%"/>
+    <img src="resources/benchmark-paired.png" width="80%"/>
+</div>
 
 ## Acknowledgements
 
