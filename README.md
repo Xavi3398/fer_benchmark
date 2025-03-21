@@ -134,7 +134,7 @@ F. X. Gaya-Morey was supported by an FPU scholarship from the Ministry of Europe
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.TXT) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 
